@@ -1,2 +1,2 @@
 # netflix-clone
-clone of Netflix using Front End
+clone of Netflix.com using Front End !
